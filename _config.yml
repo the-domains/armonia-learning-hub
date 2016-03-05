@@ -1,6 +1,6 @@
 name: Armonía Learning Hub
 favicon: null
-layout_spectrum: 0.16196
+layout_spectrum: 0.01036
 typography_spectrum: 0.32015
 title: Armonía Learning Hub
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff8b82'
     - '#a3353a'
     - '#767b6d'
-  brandStrength: 0.125
-  lightness: 0.5
+  brandStrength: 0.0625
+  lightness: 1
   saturation: 0.8125
   rhythmicContrast: 0.5495157116092741
 purpose: []
