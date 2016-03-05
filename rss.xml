@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Armonía Learning Hub]]></title>
         <description><![CDATA[Armonía Learning Hub]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/armonia-learning-hub/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 05:19:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 05:25:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/armonia-learning-hub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4af043c-b483-48c2-99aa-e1386df22462.jpg">]]></description>
-            <link>undefined7a5b8e72-e0ce-4a99-acbe-57726faabe86/index.html</link>
+            <link>https://thegrid.ai/armonia-learning-hub/7a5b8e72-e0ce-4a99-acbe-57726faabe86/index.html</link>
             <guid isPermaLink="false">7a5b8e72-e0ce-4a99-acbe-57726faabe86</guid>
-            <pubDate>Sat, 05 Mar 2016 05:19:09 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 05:25:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
