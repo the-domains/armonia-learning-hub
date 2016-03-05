@@ -1,0 +1,28 @@
+name: Armonía Learning Hub
+favicon: null
+layout_spectrum: 0.7382830865681171
+typography_spectrum: 0.6834373362362385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.447383743012324
+  lightness: 0.02709637861698866
+  saturation: 0.03709314321167767
+  rhythmicContrast: 0.5495157116092741
+purpose: []
