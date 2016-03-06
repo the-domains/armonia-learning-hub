@@ -1,7 +1,7 @@
 name: Armonía Learning Hub
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.13842
+typography_spectrum: 0.74953
 title: Armonía Learning Hub
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#030303'
-    - '#f2f7ea'
-    - '#565759'
-    - '#c1cdbb'
-    - '#747e81'
+    - '#ffffff'
+    - '#fca08b'
+    - '#525252'
+    - '#f90002'
+    - '#00bf6e'
   brandStrength: 0
   lightness: 0.5
   saturation: 0
