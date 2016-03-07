@@ -4,8 +4,15 @@
         <description><![CDATA[Armonía Learning Hub -  A space for entrepreneurship, creativity and social impact collaborative education.]]></description>
         <link>https://thegrid.ai/armonia-learning-hub/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 05:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 05:47:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/armonia-learning-hub/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Identity</p>]]></description>
+            <link>https://thegrid.ai/armonia-learning-hub/5dcdddea-7583-4bd3-bc9a-5d8ef0cbecc3/index.html</link>
+            <guid isPermaLink="false">5dcdddea-7583-4bd3-bc9a-5d8ef0cbecc3</guid>
+            <pubDate>Mon, 07 Mar 2016 05:45:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Purpose</p>]]></description>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/armonia-learning-hub/8731879a-4bcf-4bb0-804f-3570557adf88/index.html</link>
             <guid isPermaLink="false">8731879a-4bcf-4bb0-804f-3570557adf88</guid>
             <pubDate>Sat, 05 Mar 2016 22:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Identity</p>]]></description>
-            <link>https://thegrid.ai/armonia-learning-hub/5dcdddea-7583-4bd3-bc9a-5d8ef0cbecc3/index.html</link>
-            <guid isPermaLink="false">5dcdddea-7583-4bd3-bc9a-5d8ef0cbecc3</guid>
-            <pubDate>Sat, 05 Mar 2016 22:04:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
