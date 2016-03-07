@@ -4,8 +4,15 @@
         <description><![CDATA[Armonía Learning Hub]]></description>
         <link>https://thegrid.ai/armonia-learning-hub/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 22:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 04:20:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/armonia-learning-hub/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70fc8fb2-eb79-41f1-9b53-f53c0f04e454.jpg">]]></description>
+            <link>https://thegrid.ai/armonia-learning-hub/96f979bc-beaf-493d-bb3c-de781fcb0b6e/index.html</link>
+            <guid isPermaLink="false">96f979bc-beaf-493d-bb3c-de781fcb0b6e</guid>
+            <pubDate>Mon, 07 Mar 2016 04:19:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec905ace-07d5-453c-a875-571058e29de5.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/armonia-learning-hub/5dcdddea-7583-4bd3-bc9a-5d8ef0cbecc3/index.html</link>
             <guid isPermaLink="false">5dcdddea-7583-4bd3-bc9a-5d8ef0cbecc3</guid>
             <pubDate>Sat, 05 Mar 2016 22:04:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4af043c-b483-48c2-99aa-e1386df22462.jpg">]]></description>
-            <link>https://thegrid.ai/armonia-learning-hub/7a5b8e72-e0ce-4a99-acbe-57726faabe86/index.html</link>
-            <guid isPermaLink="false">7a5b8e72-e0ce-4a99-acbe-57726faabe86</guid>
-            <pubDate>Sun, 06 Mar 2016 22:33:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
